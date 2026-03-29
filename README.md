@@ -1,8 +1,8 @@
 # espresso-kotlin-rn
 
-> **GitHub repo description:** Android UI test framework for React Native apps — Kotlin, Espresso, AndroidX Test, JUnit 4, Screen Object Pattern, Allure Android, screenshot-on-failure.
+Android UI test framework for React Native apps — Kotlin, Espresso, AndroidX Test, JUnit 4, Screen Object Pattern, Allure Android, screenshot-on-failure.
 
-A production-grade Android UI automation framework using Espresso and Kotlin, targeting React Native apps. Demonstrates the Screen Object Pattern, IdlingResource-based synchronization for React Native's async rendering, screenshot capture on failure, and Allure Android reporting.
+Android UI automation framework using Espresso and Kotlin, targeting React Native apps. Demonstrates the Screen Object Pattern, IdlingResource-based synchronization for React Native's async rendering, screenshot capture on failure, and Allure Android reporting.
 
 ## Tech Stack
 
